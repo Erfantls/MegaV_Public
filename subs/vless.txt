@@ -1,0 +1,2 @@
+vless://f0d6aa7c-0b34-4b68-9af8-1ea5e0b39bdc@loox.io:443?encryption=none&fp=chrome&host=ssj-wkg.pages.dev&path=%2F&security=tls&sni=ssj-wkg.pages.dev&type=ws#megav.app
+vless://40cc9b52-25b8-4cd5-8b45-715ae26e6baf@163.172.214.188:8443?encryption=none&insecure=1&path=%2Fvless%2F&security=tls&sni=163.172.214.188&type=ws#megav.app

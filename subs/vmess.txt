@@ -1,0 +1,2 @@
+vmess://6c443cb3-9fe8-45e6-a86f-ef6ed19d481e@chatgpt.com:80?encryption=auto&host=https.http.www.net.com.ramseyv2.ir.&path=%2Fd3d3LmlyYW5ob3N0LmNvbQ%3D%3D%3Fed%3D2560&security=none&type=ws#megav.app
+vmess://ec3c8b97-f308-4fee-aa16-95e2c7595acd@185.212.149.7:52080?encryption=auto&headerType=http&host=down-cdn.dingtalk.com&path=%2F3x&security=none&type=raw#megav.app
